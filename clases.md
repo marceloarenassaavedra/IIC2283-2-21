@@ -8,7 +8,11 @@
 
 - [Clase 4](https://zoom.us/rec/share/uj3_urhNIWgFxqAPOsTv6jscByNkt8SSPazdnER3Kc0m4j-Am5PCV4oQ_Zfe9WnJ.-cQrZjou3Nm2zXMr?startTime=1630352365000). Teorema maestro.
 
-- [Clase 5](https://zoom.us/rec/share/wk3fpHm1A8GXf96jDR5ei16GfP4rXs5zJeClvSo3o0KyOZ4vo3MZWey00oKwBvM.ev067Ovz1DXnr0bA?startTime=1630524716000). Dividad para conquistar.
+- [Clase 5](https://zoom.us/rec/share/wk3fpHm1A8GXf96jDR5ei16GfP4rXs5zJeClvSo3o0KyOZ4vo3MZWey00oKwBvM.ev067Ovz1DXnr0bA?startTime=1630524716000). Dividir para conquistar, y el algoritmo de multiplicación de Karatsuba.
+
+- [Clase 6](https://zoom.us/rec/share/ESoXxdHhFNb4lHmeKjT0fqkrNdTmF7b05aJRhuWu67fUgeHz4G0j54Ii7bReeqQ9.Bd314VkrPZd1sXCS?startTime=1630952896000). Programación dinámica, y el cálculo de la distancia entre dos strings.
+
+
 
 
 
