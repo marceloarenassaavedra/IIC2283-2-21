@@ -12,6 +12,10 @@
 
 - [Clase 6](https://zoom.us/rec/share/ESoXxdHhFNb4lHmeKjT0fqkrNdTmF7b05aJRhuWu67fUgeHz4G0j54Ii7bReeqQ9.Bd314VkrPZd1sXCS?startTime=1630952896000). Programación dinámica, y el cálculo de la distancia entre dos strings.
 
+- [Clase 7](https://zoom.us/rec/share/CsT1QTSr67t8xG_YhvsxNPF0whLkEZwsIJXr4hO3EyZq2aYXZ7if5rvBjXhldYg.8B2OZJiTlitbeWF9?startTime=1631125689000). Algoritmos codiciosos, y el problema de construir codificaciones óptimas libres de prefijo.
+
+
+
 
 
 
