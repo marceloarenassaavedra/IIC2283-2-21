@@ -3,4 +3,5 @@
 ### Links a las ayudantías grabadas + apuntes en descripción de los videos
 - [Ayudantía 01 (27-08-2021)](https://youtu.be/3UGOdROwnWY)
 - [Ayudantía 02 (03-09-2021)](https://youtu.be/VLxg8S-GzXc)
+- [Ayudantía 02 (03-09-2021)](https://youtu.be/ZlGb6iF0xWo)
 
