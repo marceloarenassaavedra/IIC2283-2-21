@@ -14,6 +14,10 @@
 
 - [Clase 7](https://zoom.us/rec/share/CsT1QTSr67t8xG_YhvsxNPF0whLkEZwsIJXr4hO3EyZq2aYXZ7if5rvBjXhldYg.8B2OZJiTlitbeWF9?startTime=1631125689000). Algoritmos codiciosos, y el problema de construir codificaciones óptimas libres de prefijo.
 
+- [Clase 8](https://zoom.us/rec/share/Dw0_FWRpo-ZcyGFhbgM52H-fj_txT0KGH9knMvUxG3fue1muw49es4RvvTMpWl6Y.jhU8x3escE8kjxbT?startTime=1631557864000). El algoritmo de Huffman para el problema de construir codificaciones óptimas libres de prefijo.
+
+
+
 
 
 
