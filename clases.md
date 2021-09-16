@@ -16,6 +16,8 @@
 
 - [Clase 8](https://zoom.us/rec/share/Dw0_FWRpo-ZcyGFhbgM52H-fj_txT0KGH9knMvUxG3fue1muw49es4RvvTMpWl6Y.jhU8x3escE8kjxbT?startTime=1631557864000). El algoritmo de Huffman para el problema de construir codificaciones óptimas libres de prefijo.
 
+- [Clase 9](https://zoom.us/rec/share/IjLES-JbgEpPUpXLzEWgXaFBpG2NGGN_GZGReWXqP7NiIAgoqwtensHo_ZoKZIYY.WjAHVJ_uKvsN9t3T?startTime=1631730662000). La transformada rápida de Fourier: parte I.
+
 
 
 
