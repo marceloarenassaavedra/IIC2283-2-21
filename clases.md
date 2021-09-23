@@ -20,6 +20,8 @@
 
 - [Clase 10](https://zoom.us/rec/share/txh_bKRfnINjDTjFzueA0gjpRR8YQxAZoBib_iubocVdniHksGvjulEPBcdgTqkR.ZOyQHjIE5mUlVlL6?startTime=1632162682000). La transformada rápida de Fourier: parte II.
 
+- [Clase 11](https://zoom.us/rec/share/WT_PYuddyUBSJxD4Gnd_tm1jlLutSoOiFVkkU0QugtnHJnqoLBj3A9Dku9Ix_MvE.jx-uEKc_dSwLE3o-?startTime=1632336255000). La transformada rápida de Fourier: parte II.
+
 
 
 
