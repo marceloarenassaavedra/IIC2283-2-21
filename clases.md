@@ -22,6 +22,8 @@
 
 - [Clase 11](https://zoom.us/rec/share/WT_PYuddyUBSJxD4Gnd_tm1jlLutSoOiFVkkU0QugtnHJnqoLBj3A9Dku9Ix_MvE.jx-uEKc_dSwLE3o-?startTime=1632336255000). La transformada rápida de Fourier: parte III.
 
+- [Clase 12](https://zoom.us/rec/share/W5_46-861I9Tk2a3iBgIYkms5hn2X2Xj3K5hoIVTrFO5_s7VsyoaU3pqU1wzkJpZ.Ld4GcJjycnH4TuDy?startTime=1632767468000). El cálculo de la inversa de la transformada rápida de Fourier.
+
 
 
 
