@@ -24,7 +24,9 @@
 
 - [Clase 12](https://zoom.us/rec/share/W5_46-861I9Tk2a3iBgIYkms5hn2X2Xj3K5hoIVTrFO5_s7VsyoaU3pqU1wzkJpZ.Ld4GcJjycnH4TuDy?startTime=1632767468000). El cálculo de la inversa de la transformada rápida de Fourier.
 
-- [Clase 13](https://zoom.us/rec/share/xtFpc1YOrMyQWvhQ4fnhxid5Ic6GSOi7uGHu3oHaY1FzgeQeRratdKYZyQKlEE5_.gBGddbleNowKC9U6?startTime=1632940288000). Algoritmos aleatorizados y la verificación de equivalencia de polinomios.
+- [Clase 13](https://zoom.us/rec/share/xtFpc1YOrMyQWvhQ4fnhxid5Ic6GSOi7uGHu3oHaY1FzgeQeRratdKYZyQKlEE5_.gBGddbleNowKC9U6?startTime=1632940288000). Algoritmos aleatorizados y la verificación de equivalencia de polinomios: parte I.
+
+- [Clase 14](https://zoom.us/rec/share/WbwYj1nLhgOCOQB3y8ipie1Lm2P09cyqCgYQU-LGGkRlfBAN79MmnlvFeALY_Hq7.zgzuEP7RIHg7gtBB?startTime=1633372483000). Algoritmos aleatorizados y la verificación de equivalencia de polinomios: parte II.
 
 
 
