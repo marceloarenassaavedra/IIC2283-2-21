@@ -28,6 +28,8 @@
 
 - [Clase 14](https://zoom.us/rec/share/WbwYj1nLhgOCOQB3y8ipie1Lm2P09cyqCgYQU-LGGkRlfBAN79MmnlvFeALY_Hq7.zgzuEP7RIHg7gtBB?startTime=1633372483000). Algoritmos aleatorizados y la verificación de equivalencia de polinomios: parte II.
 
+- [Clase 15](https://zoom.us/rec/share/dzMqh3IODFewcJLweo5NBCTSRos6J7jviRs4vV9IFlXKQm4qBzWxJIqSUW5vx3WI.yxYy5Kix1LUuP5xY?startTime=1634149788000). Algoritmos aleatorizados y el problema de calcular la mediana de una lista: parte I.
+
 
 
 
