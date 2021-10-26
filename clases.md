@@ -30,6 +30,8 @@
 
 - [Clase 15](https://zoom.us/rec/share/dzMqh3IODFewcJLweo5NBCTSRos6J7jviRs4vV9IFlXKQm4qBzWxJIqSUW5vx3WI.yxYy5Kix1LUuP5xY?startTime=1634149788000). Algoritmos aleatorizados y el problema de calcular la mediana de una lista: parte I.
 
+- [Clase 16](https://zoom.us/rec/share/zNJ2MIB5yYmkfIW09aM_Dg8ZSnt3k25o6RElPjbtF_eocIdiCl2HzU7pkq1IaJEi.XMegOSJ5ADANG18S?startTime=1635186301000). Algoritmos aleatorizados y el problema de calcular la mediana de una lista: parte II.
+
 
 
 
