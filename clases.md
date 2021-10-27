@@ -32,6 +32,9 @@
 
 - [Clase 16](https://zoom.us/rec/share/zNJ2MIB5yYmkfIW09aM_Dg8ZSnt3k25o6RElPjbtF_eocIdiCl2HzU7pkq1IaJEi.XMegOSJ5ADANG18S?startTime=1635186301000). Algoritmos aleatorizados y el problema de calcular la mediana de una lista: parte II.
 
+- [Clase 17](https://zoom.us/rec/share/0AYYvHC7xFmF7CCZaBa9y0frSXI8J2TjaTHTVuYT61RViINh2Dc3xGzdXHydEqg4.rMF8ggzuNtcIW_wl?startTime=1635359545000). Aritmética modular, exponenciación rápida, máximo común divisor e inverso modular.
+
+
 
 
 
