@@ -34,7 +34,7 @@
 
 - [Clase 17](https://zoom.us/rec/share/0AYYvHC7xFmF7CCZaBa9y0frSXI8J2TjaTHTVuYT61RViINh2Dc3xGzdXHydEqg4.rMF8ggzuNtcIW_wl?startTime=1635359545000). Aritmética modular, exponenciación rápida, máximo común divisor e inverso modular.
 
-- [Clase 18](https://zoom.us/rec/share/ARZb6xyYRGX5C4d3TDNYaOkFe1677KUHf_4PLEkMsacl3D9k1KHwEiil8pVmqk6h.4i_MTg_GKFlCp6J3?startTime=1635964029000)). Algoritmo extendido de Euclides, pequeño teorema de Fermat y su uso en los tests de primalidad.
+- [Clase 18](https://zoom.us/rec/share/ARZb6xyYRGX5C4d3TDNYaOkFe1677KUHf_4PLEkMsacl3D9k1KHwEiil8pVmqk6h.4i_MTg_GKFlCp6J3?startTime=1635964029000). Algoritmo extendido de Euclides, pequeño teorema de Fermat y su uso en los tests de primalidad.
 
 
 
