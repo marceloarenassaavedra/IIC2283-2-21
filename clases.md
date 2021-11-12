@@ -36,6 +36,10 @@
 
 - [Clase 18](https://zoom.us/rec/share/ARZb6xyYRGX5C4d3TDNYaOkFe1677KUHf_4PLEkMsacl3D9k1KHwEiil8pVmqk6h.4i_MTg_GKFlCp6J3?startTime=1635964029000). Algoritmo extendido de Euclides, pequeño teorema de Fermat y su uso en los tests de primalidad.
 
+- [Clase 19](https://zoom.us/rec/share/4Y4cyO3Hwu0OfWfZIDpp1PQAa8sfZQP947vtX7k0FMftsRe0e_6SoBn41UrUJ6xy.YEvLgc3mLTVnimUv?startTime=1636396112000). Test de primalidad: parte I.
+
+- [Clase 20](https://zoom.us/rec/share/gBDpkH-za_EibP6korjfazbViXx9x6ir_f5l8r0S-930fwCPpDLqIvQHDUalbfaI.cRyptfL5iqg4Imtt?startTime=1636569169000). Test de primalidad: parte II.
+
 
 
 
