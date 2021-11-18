@@ -42,6 +42,8 @@
 
 - [Clase 21](https://zoom.us/rec/share/Usxuur79T8APNgAY14sZAAIVrs9W99XeQ5PZMoRoifzl4GSagE1cWs1_4qvKofE.0gFmUH5E1UMYQYk1?startTime=1637001152000). Test de primalidad: parte III.
 
+- [Clase 22](https://zoom.us/rec/share/q5b8zkWYfPvoz7-peTNzSOjnZBKa0ne3qAHAbCoqrNU-azcjihoNDqDkcVjgyTgB.WguZByPg-BN2Yfay?startTime=1637173817000). Test de primalidad: parte IV.
+
 
 
 
