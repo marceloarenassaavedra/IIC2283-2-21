@@ -44,6 +44,8 @@
 
 - [Clase 22](https://zoom.us/rec/share/q5b8zkWYfPvoz7-peTNzSOjnZBKa0ne3qAHAbCoqrNU-azcjihoNDqDkcVjgyTgB.WguZByPg-BN2Yfay?startTime=1637173817000). Test de primalidad: parte IV.
 
+- [Clase 23](https://zoom.us/rec/share/7k_G70xMeyuwx5wX6fsI-aUuv18oWO-5UkZXF4nKwSqGZSagsYv1U6egLQ0ILGUF.T_8KGdYABHLd52hT?startTime=1637606614000). Análisis de algoritmos en el caso promedio.
+
 
 
 
