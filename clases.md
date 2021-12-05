@@ -46,6 +46,10 @@
 
 - [Clase 23](https://zoom.us/rec/share/7k_G70xMeyuwx5wX6fsI-aUuv18oWO-5UkZXF4nKwSqGZSagsYv1U6egLQ0ILGUF.T_8KGdYABHLd52hT?startTime=1637606614000). Análisis de algoritmos en el caso promedio.
 
+- [Clase 24](https://zoom.us/rec/share/rbEfhjFOT7uFLWCZVcniL-HkVSN37_2A1a6arzAU6HEE3JEwJpJww4-MLT98rFnT.wjZr30J7WevtRJjW?startTime=1638210696000). Análisis de quicksort en el caso promedio, técnica del mejor adversario para demostrar cotas inferiores.
+
+- [Clase 25](https://zoom.us/rec/share/1qkboDSwpwqj2lDTYRHpuQy3_jIjxT9W3_c4rFg13J36vZHj16B03A7oFyc1hHGo.5F9LsAk02oMsBir9?startTime=1638383346000). Técnica de arboles de decisión para demostrar cotas inferiores.
+
 
 
 
