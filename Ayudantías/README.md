@@ -11,3 +11,4 @@
 - [Ayudantía 08 (05-11-2021)](https://youtu.be/aFWFJ1MwojM)
 - [Ayudantía 09 (12-11-2021)](https://youtu.be/EW7S99sk2t0)
 - [Ayudantía 10 (19-11-2021)](https://youtu.be/f3ie1EUzQFA)
+- [Ayudantía 11 (03-12-2021)](https://youtu.be/zEKT8pEkuO0)
